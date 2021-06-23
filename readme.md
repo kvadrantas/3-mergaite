@@ -1,4 +1,4 @@
-# Homework "Serlokas"
+# Homework "Mergaite"
 
 ## About
 
@@ -6,7 +6,7 @@ This is one of the series homeworks accomplished during Javascript tranings.
 
 Site published at: https://kvadrantas.github.io/3-mergaite/
 
-Design: [Serlokas](https://media.discordapp.net/attachments/850245533838868480/850246211415834634/unknown.png)
+Design: [Mergaite](https://media.discordapp.net/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Course Details
 *Training organization:* [Baltic Institute of Technology](https://bit.lt/)
