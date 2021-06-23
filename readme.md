@@ -33,5 +33,5 @@ Design: [Mergaite](https://media.discordapp.net/attachments/850245533838868480/8
 
 Author | Description
 ------------ | -------------
-[Rolandas Šeputis](https://github.com/kvadrantas)| [Homework No1: "Serlokas"](https://kvadrantas.github.io/3-mergaite/)
+[Rolandas Šeputis](https://github.com/kvadrantas)| [Homework No2: "Mergaite"](https://kvadrantas.github.io/3-mergaite/)
 
