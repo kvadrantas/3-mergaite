@@ -24,10 +24,6 @@ Design: [Mergaite](https://media.discordapp.net/attachments/850245533838868480/8
 
 
 
-
-![Mergaite](/mergaite.jpg)
-
-
 ## Authors
 
 
