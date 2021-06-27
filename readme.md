@@ -2,7 +2,7 @@
 
 ## About
 
-This is one of the series homeworks accomplished during Javascript tranings.
+This is one example of the homework series accomplished during Javascript course at BIT (Vilnius, Lithuania).
 
 Site published at: https://kvadrantas.github.io/3-mergaite/
 
