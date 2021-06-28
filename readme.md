@@ -2,7 +2,7 @@
 
 ## About
 
-This is one of the series homeworks accomplished during Javascript tranings.
+This is one example of the homework series accomplished during Javascript course at BIT (Vilnius, Lithuania).
 
 Site published at: https://kvadrantas.github.io/3-mergaite/
 
@@ -22,10 +22,6 @@ Design: [Mergaite](https://media.discordapp.net/attachments/850245533838868480/8
 - Learn to use [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Learn to use .gitignore
 
-
-
-
-![Mergaite](/mergaite.jpg)
 
 
 ## Authors
