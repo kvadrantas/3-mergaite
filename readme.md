@@ -21,6 +21,10 @@ Design: [Mergaite](https://media.discordapp.net/attachments/850245533838868480/8
 - Create simple HTML page from provided design
 - Learn to use [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Learn to use .gitignore
+- fixed content width
+- desktop only
+- transparent images .png
+- github pages
 
 
 
