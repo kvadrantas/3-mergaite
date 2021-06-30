@@ -12,15 +12,31 @@ header {
 
 header > img {
     float: left;
-    heigth: 50px;
+    height: 50px;
 }
 
 nav {
     float: right;
+    
+    margin-top: 7px;
 }
 
 a {
+    float: left;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 16px;
+    color: #9E9E9E;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;   
+    border: 5px solid transparent;
+    border-radius: 17px;
+}
 
+a:last-child {
+    border-color: #9E9E9E;
+    margin-left: 15px;
 }
 
 main {
